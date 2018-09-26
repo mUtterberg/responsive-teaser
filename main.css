@@ -205,3 +205,8 @@ p {
    line-height: 60px;
    padding: 0 0 0 10px;
 }
+
+#slider: hover li,
+#slider: hover .progress-bar {
+   animation-play-state: paused;
+}

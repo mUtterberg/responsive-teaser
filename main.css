@@ -161,8 +161,8 @@ p {
   
 } /* End media styling */
 
-#foot2 {
-  margin: auto;
+#footer, foot2 {
+  margin: 0 auto;
 }
 
 /* SLIDER STRUCTURE */

@@ -153,6 +153,10 @@ p {
   
 } /* End media styling */
 
+#footer {
+  margin: auto;
+}
+
 /* SLIDER STRUCTURE */
 
 #slider {

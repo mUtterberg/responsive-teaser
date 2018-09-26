@@ -33,6 +33,20 @@
    animation: cyclefive 25s linear infinite;
 }
 
+/* PROGRESS BAR */
+
+.progress-bar {
+   position: relative;
+   top: -5px;
+   width: 680px;
+   height: 5px;
+   background: #000;
+  -webkit-animation: fullexpand 25s ease-out infinite;
+  -moz-animation: fullexpand 25s ease-out infinite;
+  -o-animation: fullexpand 25s ease-out infinite;
+   animation: fullexpand 25s ease-out infinite;
+}
+
 /* ANIMATIONS */
 
 /* PHOTO SLIDER */

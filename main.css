@@ -204,6 +204,15 @@ p {
    font-weight: 300;
    line-height: 60px;
    padding: 0 0 0 10px;
+  transition: all 0.3s ease-in-out;
+}
+
+#slider li#first: hover .tooltip,
+#slider li#second: hover .tooltip,
+#slider li#third: hover .tooltip,
+#slider li#fourth: hover .tooltip,
+#slider li#fifth: hover .tooltip {
+   left: 0px;
 }
 
 #slider: hover li,

@@ -188,3 +188,20 @@ p {
    top: -325px; /* Original Position - Outside of the Slider */
    list-style: none;
 }
+
+#slider .tooltip {
+   background: rgba(0,0,0,0.7);
+   width: 300px;
+   height: 60px;
+   position: relative;
+   bottom: 75px;
+   left: -320px;
+}
+
+#slider .tooltip h1 {
+   color: #fff;
+   font-size: 24px;
+   font-weight: 300;
+   line-height: 60px;
+   padding: 0 0 0 10px;
+}
